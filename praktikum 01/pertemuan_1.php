@@ -1,8 +1,8 @@
 <?php
   // Variable user
-  $nama = 'sabiq';
-  $umur = 20;
-  $berat = 52;
+  $nama = 'Aisyah Farhanah';
+  $umur = 19;
+  $berat = 70;
 
   $nama = 'zaki';
 
